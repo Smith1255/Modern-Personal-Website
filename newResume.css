@@ -1,0 +1,28 @@
+icon {
+  height: 120px;
+  width: 120px;
+  margin-top: 1px;
+
+}
+
+#main {
+	background-color: #CDBEAB;
+	width: 121px;
+	height: 121px;
+	margin-top: 175px;
+  border: 1px solid black;
+	border-radius: 100%;
+	opacity: 0.95;
+}
+
+#im {
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+	  width: 100%;
+    background-image: url (bg.jpg");
+    background-repeat: no-repeat;
+    background-size: contain;
+}
